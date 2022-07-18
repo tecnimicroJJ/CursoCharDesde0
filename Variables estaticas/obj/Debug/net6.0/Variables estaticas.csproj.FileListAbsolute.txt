@@ -1,0 +1,15 @@
+C:\Curso net core\Variables estaticas\bin\Debug\net6.0\Variables estaticas.exe
+C:\Curso net core\Variables estaticas\bin\Debug\net6.0\Variables estaticas.deps.json
+C:\Curso net core\Variables estaticas\bin\Debug\net6.0\Variables estaticas.runtimeconfig.json
+C:\Curso net core\Variables estaticas\bin\Debug\net6.0\Variables estaticas.dll
+C:\Curso net core\Variables estaticas\bin\Debug\net6.0\Variables estaticas.pdb
+C:\Curso net core\Variables estaticas\obj\Debug\net6.0\Variables estaticas.csproj.AssemblyReference.cache
+C:\Curso net core\Variables estaticas\obj\Debug\net6.0\Variables estaticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\Variables estaticas\obj\Debug\net6.0\Variables estaticas.AssemblyInfoInputs.cache
+C:\Curso net core\Variables estaticas\obj\Debug\net6.0\Variables estaticas.AssemblyInfo.cs
+C:\Curso net core\Variables estaticas\obj\Debug\net6.0\Variables estaticas.csproj.CoreCompileInputs.cache
+C:\Curso net core\Variables estaticas\obj\Debug\net6.0\Variables estaticas.dll
+C:\Curso net core\Variables estaticas\obj\Debug\net6.0\refint\Variables estaticas.dll
+C:\Curso net core\Variables estaticas\obj\Debug\net6.0\Variables estaticas.pdb
+C:\Curso net core\Variables estaticas\obj\Debug\net6.0\Variables estaticas.genruntimeconfig.cache
+C:\Curso net core\Variables estaticas\obj\Debug\net6.0\ref\Variables estaticas.dll

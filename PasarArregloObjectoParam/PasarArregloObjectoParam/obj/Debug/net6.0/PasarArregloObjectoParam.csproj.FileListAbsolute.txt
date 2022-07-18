@@ -1,0 +1,15 @@
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\bin\Debug\net6.0\PasarArregloObjectoParam.exe
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\bin\Debug\net6.0\PasarArregloObjectoParam.deps.json
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\bin\Debug\net6.0\PasarArregloObjectoParam.runtimeconfig.json
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\bin\Debug\net6.0\PasarArregloObjectoParam.dll
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\bin\Debug\net6.0\PasarArregloObjectoParam.pdb
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\obj\Debug\net6.0\PasarArregloObjectoParam.csproj.AssemblyReference.cache
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\obj\Debug\net6.0\PasarArregloObjectoParam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\obj\Debug\net6.0\PasarArregloObjectoParam.AssemblyInfoInputs.cache
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\obj\Debug\net6.0\PasarArregloObjectoParam.AssemblyInfo.cs
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\obj\Debug\net6.0\PasarArregloObjectoParam.csproj.CoreCompileInputs.cache
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\obj\Debug\net6.0\PasarArregloObjectoParam.dll
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\obj\Debug\net6.0\refint\PasarArregloObjectoParam.dll
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\obj\Debug\net6.0\PasarArregloObjectoParam.pdb
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\obj\Debug\net6.0\PasarArregloObjectoParam.genruntimeconfig.cache
+C:\Curso net core\PasarArregloObjectoParam\PasarArregloObjectoParam\obj\Debug\net6.0\ref\PasarArregloObjectoParam.dll

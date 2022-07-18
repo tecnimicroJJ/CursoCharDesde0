@@ -1,0 +1,15 @@
+C:\Curso net core\ASP\Clase Estatica\bin\Debug\net6.0\Clase Estatica.exe
+C:\Curso net core\ASP\Clase Estatica\bin\Debug\net6.0\Clase Estatica.deps.json
+C:\Curso net core\ASP\Clase Estatica\bin\Debug\net6.0\Clase Estatica.runtimeconfig.json
+C:\Curso net core\ASP\Clase Estatica\bin\Debug\net6.0\Clase Estatica.dll
+C:\Curso net core\ASP\Clase Estatica\bin\Debug\net6.0\Clase Estatica.pdb
+C:\Curso net core\ASP\Clase Estatica\obj\Debug\net6.0\Clase Estatica.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\Clase Estatica\obj\Debug\net6.0\Clase Estatica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ASP\Clase Estatica\obj\Debug\net6.0\Clase Estatica.AssemblyInfoInputs.cache
+C:\Curso net core\ASP\Clase Estatica\obj\Debug\net6.0\Clase Estatica.AssemblyInfo.cs
+C:\Curso net core\ASP\Clase Estatica\obj\Debug\net6.0\Clase Estatica.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\Clase Estatica\obj\Debug\net6.0\Clase Estatica.dll
+C:\Curso net core\ASP\Clase Estatica\obj\Debug\net6.0\refint\Clase Estatica.dll
+C:\Curso net core\ASP\Clase Estatica\obj\Debug\net6.0\Clase Estatica.pdb
+C:\Curso net core\ASP\Clase Estatica\obj\Debug\net6.0\Clase Estatica.genruntimeconfig.cache
+C:\Curso net core\ASP\Clase Estatica\obj\Debug\net6.0\ref\Clase Estatica.dll

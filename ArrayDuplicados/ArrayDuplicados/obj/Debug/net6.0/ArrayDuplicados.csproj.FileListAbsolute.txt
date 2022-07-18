@@ -1,0 +1,15 @@
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\bin\Debug\net6.0\ArrayDuplicados.exe
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\bin\Debug\net6.0\ArrayDuplicados.deps.json
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\bin\Debug\net6.0\ArrayDuplicados.runtimeconfig.json
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\bin\Debug\net6.0\ArrayDuplicados.dll
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\bin\Debug\net6.0\ArrayDuplicados.pdb
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\obj\Debug\net6.0\ArrayDuplicados.csproj.AssemblyReference.cache
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\obj\Debug\net6.0\ArrayDuplicados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\obj\Debug\net6.0\ArrayDuplicados.AssemblyInfoInputs.cache
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\obj\Debug\net6.0\ArrayDuplicados.AssemblyInfo.cs
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\obj\Debug\net6.0\ArrayDuplicados.csproj.CoreCompileInputs.cache
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\obj\Debug\net6.0\ArrayDuplicados.dll
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\obj\Debug\net6.0\refint\ArrayDuplicados.dll
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\obj\Debug\net6.0\ArrayDuplicados.pdb
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\obj\Debug\net6.0\ArrayDuplicados.genruntimeconfig.cache
+C:\Curso net core\ArrayDuplicados\ArrayDuplicados\obj\Debug\net6.0\ref\ArrayDuplicados.dll

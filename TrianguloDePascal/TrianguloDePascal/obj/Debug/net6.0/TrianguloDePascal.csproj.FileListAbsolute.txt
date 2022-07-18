@@ -1,0 +1,15 @@
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\bin\Debug\net6.0\TrianguloDePascal.exe
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\bin\Debug\net6.0\TrianguloDePascal.deps.json
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\bin\Debug\net6.0\TrianguloDePascal.runtimeconfig.json
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\bin\Debug\net6.0\TrianguloDePascal.dll
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\bin\Debug\net6.0\TrianguloDePascal.pdb
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\obj\Debug\net6.0\TrianguloDePascal.csproj.AssemblyReference.cache
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\obj\Debug\net6.0\TrianguloDePascal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\obj\Debug\net6.0\TrianguloDePascal.AssemblyInfoInputs.cache
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\obj\Debug\net6.0\TrianguloDePascal.AssemblyInfo.cs
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\obj\Debug\net6.0\TrianguloDePascal.csproj.CoreCompileInputs.cache
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\obj\Debug\net6.0\TrianguloDePascal.dll
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\obj\Debug\net6.0\refint\TrianguloDePascal.dll
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\obj\Debug\net6.0\TrianguloDePascal.pdb
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\obj\Debug\net6.0\TrianguloDePascal.genruntimeconfig.cache
+C:\Curso net core\TrianguloDePascal\TrianguloDePascal\obj\Debug\net6.0\ref\TrianguloDePascal.dll

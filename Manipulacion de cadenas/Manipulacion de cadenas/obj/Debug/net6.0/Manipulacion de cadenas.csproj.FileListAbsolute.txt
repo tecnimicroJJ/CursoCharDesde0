@@ -1,0 +1,15 @@
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\bin\Debug\net6.0\Manipulacion de cadenas.exe
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\bin\Debug\net6.0\Manipulacion de cadenas.deps.json
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\bin\Debug\net6.0\Manipulacion de cadenas.runtimeconfig.json
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\bin\Debug\net6.0\Manipulacion de cadenas.dll
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\bin\Debug\net6.0\Manipulacion de cadenas.pdb
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\obj\Debug\net6.0\Manipulacion de cadenas.csproj.AssemblyReference.cache
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\obj\Debug\net6.0\Manipulacion de cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\obj\Debug\net6.0\Manipulacion de cadenas.AssemblyInfoInputs.cache
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\obj\Debug\net6.0\Manipulacion de cadenas.AssemblyInfo.cs
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\obj\Debug\net6.0\Manipulacion de cadenas.csproj.CoreCompileInputs.cache
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\obj\Debug\net6.0\Manipulacion de cadenas.dll
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\obj\Debug\net6.0\refint\Manipulacion de cadenas.dll
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\obj\Debug\net6.0\Manipulacion de cadenas.pdb
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\obj\Debug\net6.0\Manipulacion de cadenas.genruntimeconfig.cache
+C:\Curso net core\Manipulacion de cadenas\Manipulacion de cadenas\obj\Debug\net6.0\ref\Manipulacion de cadenas.dll

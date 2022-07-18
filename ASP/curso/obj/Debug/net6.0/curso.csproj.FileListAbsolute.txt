@@ -1,0 +1,15 @@
+C:\Curso net core\ASP\curso\bin\Debug\net6.0\curso.exe
+C:\Curso net core\ASP\curso\bin\Debug\net6.0\curso.deps.json
+C:\Curso net core\ASP\curso\bin\Debug\net6.0\curso.runtimeconfig.json
+C:\Curso net core\ASP\curso\bin\Debug\net6.0\curso.dll
+C:\Curso net core\ASP\curso\bin\Debug\net6.0\curso.pdb
+C:\Curso net core\ASP\curso\obj\Debug\net6.0\curso.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\curso\obj\Debug\net6.0\curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ASP\curso\obj\Debug\net6.0\curso.AssemblyInfoInputs.cache
+C:\Curso net core\ASP\curso\obj\Debug\net6.0\curso.AssemblyInfo.cs
+C:\Curso net core\ASP\curso\obj\Debug\net6.0\curso.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\curso\obj\Debug\net6.0\curso.dll
+C:\Curso net core\ASP\curso\obj\Debug\net6.0\refint\curso.dll
+C:\Curso net core\ASP\curso\obj\Debug\net6.0\curso.pdb
+C:\Curso net core\ASP\curso\obj\Debug\net6.0\curso.genruntimeconfig.cache
+C:\Curso net core\ASP\curso\obj\Debug\net6.0\ref\curso.dll

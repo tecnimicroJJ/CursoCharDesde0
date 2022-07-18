@@ -1,0 +1,13 @@
+C:\Curso net core\ASP\Logica\bin\Debug\Logica.dll
+C:\Curso net core\ASP\Logica\bin\Debug\Logica.pdb
+C:\Curso net core\ASP\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\Logica\obj\Debug\Logica.dll
+C:\Curso net core\ASP\Logica\obj\Debug\Logica.pdb
+C:\Curso net core\ASP\Logica\bin\Debug\DataEstudiantes.dll
+C:\Curso net core\ASP\Logica\bin\Debug\linq2db.dll
+C:\Curso net core\ASP\Logica\bin\Debug\DataEstudiantes.pdb
+C:\Curso net core\ASP\Logica\bin\Debug\linq2db.pdb
+C:\Curso net core\ASP\Logica\bin\Debug\linq2db.xml
+C:\Curso net core\ASP\Logica\obj\Debug\Logica.csproj.CopyComplete
+C:\Curso net core\ASP\Logica\bin\Debug\Logica.dll.config

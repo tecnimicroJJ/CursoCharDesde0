@@ -1,0 +1,15 @@
+C:\Curso net core\ASP\Metodos Estaticos\bin\Debug\net6.0\Metodos Estaticos.exe
+C:\Curso net core\ASP\Metodos Estaticos\bin\Debug\net6.0\Metodos Estaticos.deps.json
+C:\Curso net core\ASP\Metodos Estaticos\bin\Debug\net6.0\Metodos Estaticos.runtimeconfig.json
+C:\Curso net core\ASP\Metodos Estaticos\bin\Debug\net6.0\Metodos Estaticos.dll
+C:\Curso net core\ASP\Metodos Estaticos\bin\Debug\net6.0\Metodos Estaticos.pdb
+C:\Curso net core\ASP\Metodos Estaticos\obj\Debug\net6.0\Metodos Estaticos.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\Metodos Estaticos\obj\Debug\net6.0\Metodos Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ASP\Metodos Estaticos\obj\Debug\net6.0\Metodos Estaticos.AssemblyInfoInputs.cache
+C:\Curso net core\ASP\Metodos Estaticos\obj\Debug\net6.0\Metodos Estaticos.AssemblyInfo.cs
+C:\Curso net core\ASP\Metodos Estaticos\obj\Debug\net6.0\Metodos Estaticos.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\Metodos Estaticos\obj\Debug\net6.0\Metodos Estaticos.dll
+C:\Curso net core\ASP\Metodos Estaticos\obj\Debug\net6.0\refint\Metodos Estaticos.dll
+C:\Curso net core\ASP\Metodos Estaticos\obj\Debug\net6.0\Metodos Estaticos.pdb
+C:\Curso net core\ASP\Metodos Estaticos\obj\Debug\net6.0\Metodos Estaticos.genruntimeconfig.cache
+C:\Curso net core\ASP\Metodos Estaticos\obj\Debug\net6.0\ref\Metodos Estaticos.dll

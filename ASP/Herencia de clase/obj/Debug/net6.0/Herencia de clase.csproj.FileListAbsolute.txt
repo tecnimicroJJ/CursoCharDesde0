@@ -1,0 +1,15 @@
+C:\Curso net core\ASP\Herencia de clase\bin\Debug\net6.0\Herencia de clase.exe
+C:\Curso net core\ASP\Herencia de clase\bin\Debug\net6.0\Herencia de clase.deps.json
+C:\Curso net core\ASP\Herencia de clase\bin\Debug\net6.0\Herencia de clase.runtimeconfig.json
+C:\Curso net core\ASP\Herencia de clase\bin\Debug\net6.0\Herencia de clase.dll
+C:\Curso net core\ASP\Herencia de clase\bin\Debug\net6.0\Herencia de clase.pdb
+C:\Curso net core\ASP\Herencia de clase\obj\Debug\net6.0\Herencia de clase.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\Herencia de clase\obj\Debug\net6.0\Herencia de clase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ASP\Herencia de clase\obj\Debug\net6.0\Herencia de clase.AssemblyInfoInputs.cache
+C:\Curso net core\ASP\Herencia de clase\obj\Debug\net6.0\Herencia de clase.AssemblyInfo.cs
+C:\Curso net core\ASP\Herencia de clase\obj\Debug\net6.0\Herencia de clase.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\Herencia de clase\obj\Debug\net6.0\Herencia de clase.dll
+C:\Curso net core\ASP\Herencia de clase\obj\Debug\net6.0\refint\Herencia de clase.dll
+C:\Curso net core\ASP\Herencia de clase\obj\Debug\net6.0\Herencia de clase.pdb
+C:\Curso net core\ASP\Herencia de clase\obj\Debug\net6.0\Herencia de clase.genruntimeconfig.cache
+C:\Curso net core\ASP\Herencia de clase\obj\Debug\net6.0\ref\Herencia de clase.dll

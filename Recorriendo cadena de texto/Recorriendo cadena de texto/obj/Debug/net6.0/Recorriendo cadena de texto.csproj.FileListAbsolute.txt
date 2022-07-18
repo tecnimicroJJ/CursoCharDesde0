@@ -1,0 +1,15 @@
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\bin\Debug\net6.0\Recorriendo cadena de texto.exe
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\bin\Debug\net6.0\Recorriendo cadena de texto.deps.json
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\bin\Debug\net6.0\Recorriendo cadena de texto.runtimeconfig.json
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\bin\Debug\net6.0\Recorriendo cadena de texto.dll
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\bin\Debug\net6.0\Recorriendo cadena de texto.pdb
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\obj\Debug\net6.0\Recorriendo cadena de texto.csproj.AssemblyReference.cache
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\obj\Debug\net6.0\Recorriendo cadena de texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\obj\Debug\net6.0\Recorriendo cadena de texto.AssemblyInfoInputs.cache
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\obj\Debug\net6.0\Recorriendo cadena de texto.AssemblyInfo.cs
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\obj\Debug\net6.0\Recorriendo cadena de texto.csproj.CoreCompileInputs.cache
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\obj\Debug\net6.0\Recorriendo cadena de texto.dll
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\obj\Debug\net6.0\refint\Recorriendo cadena de texto.dll
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\obj\Debug\net6.0\Recorriendo cadena de texto.pdb
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\obj\Debug\net6.0\Recorriendo cadena de texto.genruntimeconfig.cache
+C:\Curso net core\Recorriendo cadena de texto\Recorriendo cadena de texto\obj\Debug\net6.0\ref\Recorriendo cadena de texto.dll

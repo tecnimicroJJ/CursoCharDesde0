@@ -1,0 +1,15 @@
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\obj\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\obj\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\obj\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.AssemblyInfoInputs.cache
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\obj\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.AssemblyInfo.cs
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\obj\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\bin\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.exe
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\bin\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.deps.json
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\bin\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.runtimeconfig.json
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\bin\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.dll
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\bin\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.pdb
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\obj\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.dll
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\obj\Debug\net6.0\refint\TiendaDeGolosinasHerenciaPoli.dll
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\obj\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.pdb
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\obj\Debug\net6.0\TiendaDeGolosinasHerenciaPoli.genruntimeconfig.cache
+C:\Curso net core\ASP\TiendaDeGolosinasHerenciaPoli\obj\Debug\net6.0\ref\TiendaDeGolosinasHerenciaPoli.dll

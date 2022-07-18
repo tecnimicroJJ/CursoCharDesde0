@@ -1,0 +1,15 @@
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\bin\Debug\net6.0\Tipos de Metodos en Cchar.exe
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\bin\Debug\net6.0\Tipos de Metodos en Cchar.deps.json
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\bin\Debug\net6.0\Tipos de Metodos en Cchar.runtimeconfig.json
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\bin\Debug\net6.0\Tipos de Metodos en Cchar.dll
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\bin\Debug\net6.0\Tipos de Metodos en Cchar.pdb
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\obj\Debug\net6.0\Tipos de Metodos en Cchar.csproj.AssemblyReference.cache
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\obj\Debug\net6.0\Tipos de Metodos en Cchar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\obj\Debug\net6.0\Tipos de Metodos en Cchar.AssemblyInfoInputs.cache
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\obj\Debug\net6.0\Tipos de Metodos en Cchar.AssemblyInfo.cs
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\obj\Debug\net6.0\Tipos de Metodos en Cchar.csproj.CoreCompileInputs.cache
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\obj\Debug\net6.0\Tipos de Metodos en Cchar.dll
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\obj\Debug\net6.0\refint\Tipos de Metodos en Cchar.dll
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\obj\Debug\net6.0\Tipos de Metodos en Cchar.pdb
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\obj\Debug\net6.0\Tipos de Metodos en Cchar.genruntimeconfig.cache
+C:\Curso net core\Tipos de Metodos en Cchar\Tipos de Metodos en Cchar\obj\Debug\net6.0\ref\Tipos de Metodos en Cchar.dll

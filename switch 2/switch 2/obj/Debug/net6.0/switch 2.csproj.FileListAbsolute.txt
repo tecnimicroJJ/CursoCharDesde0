@@ -1,0 +1,15 @@
+C:\Curso net core\switch 2\switch 2\obj\Debug\net6.0\switch 2.csproj.AssemblyReference.cache
+C:\Curso net core\switch 2\switch 2\obj\Debug\net6.0\switch 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\switch 2\switch 2\obj\Debug\net6.0\switch 2.AssemblyInfoInputs.cache
+C:\Curso net core\switch 2\switch 2\obj\Debug\net6.0\switch 2.AssemblyInfo.cs
+C:\Curso net core\switch 2\switch 2\obj\Debug\net6.0\switch 2.csproj.CoreCompileInputs.cache
+C:\Curso net core\switch 2\switch 2\bin\Debug\net6.0\switch 2.exe
+C:\Curso net core\switch 2\switch 2\bin\Debug\net6.0\switch 2.deps.json
+C:\Curso net core\switch 2\switch 2\bin\Debug\net6.0\switch 2.runtimeconfig.json
+C:\Curso net core\switch 2\switch 2\bin\Debug\net6.0\switch 2.dll
+C:\Curso net core\switch 2\switch 2\bin\Debug\net6.0\switch 2.pdb
+C:\Curso net core\switch 2\switch 2\obj\Debug\net6.0\switch 2.dll
+C:\Curso net core\switch 2\switch 2\obj\Debug\net6.0\refint\switch 2.dll
+C:\Curso net core\switch 2\switch 2\obj\Debug\net6.0\switch 2.pdb
+C:\Curso net core\switch 2\switch 2\obj\Debug\net6.0\switch 2.genruntimeconfig.cache
+C:\Curso net core\switch 2\switch 2\obj\Debug\net6.0\ref\switch 2.dll

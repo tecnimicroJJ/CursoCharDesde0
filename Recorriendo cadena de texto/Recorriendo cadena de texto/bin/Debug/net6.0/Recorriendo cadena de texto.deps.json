@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Recorriendo cadena de texto/1.0.0": {
+        "runtime": {
+          "Recorriendo cadena de texto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Recorriendo cadena de texto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

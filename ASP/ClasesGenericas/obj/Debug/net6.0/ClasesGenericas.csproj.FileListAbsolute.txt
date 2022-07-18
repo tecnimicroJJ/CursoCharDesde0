@@ -1,0 +1,15 @@
+C:\Curso net core\ASP\ClasesGenericas\bin\Debug\net6.0\ClasesGenericas.exe
+C:\Curso net core\ASP\ClasesGenericas\bin\Debug\net6.0\ClasesGenericas.deps.json
+C:\Curso net core\ASP\ClasesGenericas\bin\Debug\net6.0\ClasesGenericas.runtimeconfig.json
+C:\Curso net core\ASP\ClasesGenericas\bin\Debug\net6.0\ClasesGenericas.dll
+C:\Curso net core\ASP\ClasesGenericas\bin\Debug\net6.0\ClasesGenericas.pdb
+C:\Curso net core\ASP\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ASP\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.AssemblyInfoInputs.cache
+C:\Curso net core\ASP\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.AssemblyInfo.cs
+C:\Curso net core\ASP\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.dll
+C:\Curso net core\ASP\ClasesGenericas\obj\Debug\net6.0\refint\ClasesGenericas.dll
+C:\Curso net core\ASP\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.pdb
+C:\Curso net core\ASP\ClasesGenericas\obj\Debug\net6.0\ClasesGenericas.genruntimeconfig.cache
+C:\Curso net core\ASP\ClasesGenericas\obj\Debug\net6.0\ref\ClasesGenericas.dll

@@ -1,0 +1,15 @@
+C:\Curso net core\switch3\switch3\bin\Debug\net6.0\switch3.exe
+C:\Curso net core\switch3\switch3\bin\Debug\net6.0\switch3.deps.json
+C:\Curso net core\switch3\switch3\bin\Debug\net6.0\switch3.runtimeconfig.json
+C:\Curso net core\switch3\switch3\bin\Debug\net6.0\switch3.dll
+C:\Curso net core\switch3\switch3\bin\Debug\net6.0\switch3.pdb
+C:\Curso net core\switch3\switch3\obj\Debug\net6.0\switch3.csproj.AssemblyReference.cache
+C:\Curso net core\switch3\switch3\obj\Debug\net6.0\switch3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\switch3\switch3\obj\Debug\net6.0\switch3.AssemblyInfoInputs.cache
+C:\Curso net core\switch3\switch3\obj\Debug\net6.0\switch3.AssemblyInfo.cs
+C:\Curso net core\switch3\switch3\obj\Debug\net6.0\switch3.csproj.CoreCompileInputs.cache
+C:\Curso net core\switch3\switch3\obj\Debug\net6.0\switch3.dll
+C:\Curso net core\switch3\switch3\obj\Debug\net6.0\refint\switch3.dll
+C:\Curso net core\switch3\switch3\obj\Debug\net6.0\switch3.pdb
+C:\Curso net core\switch3\switch3\obj\Debug\net6.0\switch3.genruntimeconfig.cache
+C:\Curso net core\switch3\switch3\obj\Debug\net6.0\ref\switch3.dll

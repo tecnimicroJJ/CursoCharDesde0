@@ -1,0 +1,15 @@
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\obj\Debug\net6.0\Estructuras condicionales.csproj.AssemblyReference.cache
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\obj\Debug\net6.0\Estructuras condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\obj\Debug\net6.0\Estructuras condicionales.AssemblyInfoInputs.cache
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\obj\Debug\net6.0\Estructuras condicionales.AssemblyInfo.cs
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\obj\Debug\net6.0\Estructuras condicionales.csproj.CoreCompileInputs.cache
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\bin\Debug\net6.0\Estructuras condicionales.exe
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\bin\Debug\net6.0\Estructuras condicionales.deps.json
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\bin\Debug\net6.0\Estructuras condicionales.runtimeconfig.json
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\bin\Debug\net6.0\Estructuras condicionales.dll
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\bin\Debug\net6.0\Estructuras condicionales.pdb
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\obj\Debug\net6.0\Estructuras condicionales.dll
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\obj\Debug\net6.0\refint\Estructuras condicionales.dll
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\obj\Debug\net6.0\Estructuras condicionales.pdb
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\obj\Debug\net6.0\Estructuras condicionales.genruntimeconfig.cache
+C:\Curso net core\Estructuras condicionales\Estructuras condicionales\obj\Debug\net6.0\ref\Estructuras condicionales.dll

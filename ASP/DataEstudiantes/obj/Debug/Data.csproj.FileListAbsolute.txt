@@ -1,0 +1,10 @@
+C:\Curso net core\ASP\DataEstudiantes\bin\Debug\DataEstudiantes.dll
+C:\Curso net core\ASP\DataEstudiantes\bin\Debug\DataEstudiantes.pdb
+C:\Curso net core\ASP\DataEstudiantes\bin\Debug\linq2db.dll
+C:\Curso net core\ASP\DataEstudiantes\bin\Debug\linq2db.pdb
+C:\Curso net core\ASP\DataEstudiantes\bin\Debug\linq2db.xml
+C:\Curso net core\ASP\DataEstudiantes\obj\Debug\Data.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\DataEstudiantes\obj\Debug\Data.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\DataEstudiantes\obj\Debug\Data.csproj.CopyComplete
+C:\Curso net core\ASP\DataEstudiantes\obj\Debug\DataEstudiantes.dll
+C:\Curso net core\ASP\DataEstudiantes\obj\Debug\DataEstudiantes.pdb

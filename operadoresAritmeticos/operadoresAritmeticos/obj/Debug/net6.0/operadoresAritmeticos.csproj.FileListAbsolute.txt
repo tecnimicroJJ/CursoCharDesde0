@@ -1,0 +1,15 @@
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.exe
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.deps.json
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.runtimeconfig.json
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.dll
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\bin\Debug\net6.0\operadoresAritmeticos.pdb
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.csproj.AssemblyReference.cache
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.AssemblyInfoInputs.cache
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.AssemblyInfo.cs
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.csproj.CoreCompileInputs.cache
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.dll
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\refint\operadoresAritmeticos.dll
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.pdb
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\operadoresAritmeticos.genruntimeconfig.cache
+C:\Curso net core\operadoresAritmeticos\operadoresAritmeticos\obj\Debug\net6.0\ref\operadoresAritmeticos.dll

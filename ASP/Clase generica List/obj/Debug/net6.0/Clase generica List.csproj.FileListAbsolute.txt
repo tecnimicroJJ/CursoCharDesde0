@@ -1,0 +1,15 @@
+C:\Curso net core\ASP\Clase generica List\bin\Debug\net6.0\Clase generica List.exe
+C:\Curso net core\ASP\Clase generica List\bin\Debug\net6.0\Clase generica List.deps.json
+C:\Curso net core\ASP\Clase generica List\bin\Debug\net6.0\Clase generica List.runtimeconfig.json
+C:\Curso net core\ASP\Clase generica List\bin\Debug\net6.0\Clase generica List.dll
+C:\Curso net core\ASP\Clase generica List\bin\Debug\net6.0\Clase generica List.pdb
+C:\Curso net core\ASP\Clase generica List\obj\Debug\net6.0\Clase generica List.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\Clase generica List\obj\Debug\net6.0\Clase generica List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ASP\Clase generica List\obj\Debug\net6.0\Clase generica List.AssemblyInfoInputs.cache
+C:\Curso net core\ASP\Clase generica List\obj\Debug\net6.0\Clase generica List.AssemblyInfo.cs
+C:\Curso net core\ASP\Clase generica List\obj\Debug\net6.0\Clase generica List.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\Clase generica List\obj\Debug\net6.0\Clase generica List.dll
+C:\Curso net core\ASP\Clase generica List\obj\Debug\net6.0\refint\Clase generica List.dll
+C:\Curso net core\ASP\Clase generica List\obj\Debug\net6.0\Clase generica List.pdb
+C:\Curso net core\ASP\Clase generica List\obj\Debug\net6.0\Clase generica List.genruntimeconfig.cache
+C:\Curso net core\ASP\Clase generica List\obj\Debug\net6.0\ref\Clase generica List.dll

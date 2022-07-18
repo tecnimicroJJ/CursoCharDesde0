@@ -1,0 +1,15 @@
+C:\Curso net core\ASP\Argumentos opcionales\bin\Debug\net6.0\Argumentos opcionales.exe
+C:\Curso net core\ASP\Argumentos opcionales\bin\Debug\net6.0\Argumentos opcionales.deps.json
+C:\Curso net core\ASP\Argumentos opcionales\bin\Debug\net6.0\Argumentos opcionales.runtimeconfig.json
+C:\Curso net core\ASP\Argumentos opcionales\bin\Debug\net6.0\Argumentos opcionales.dll
+C:\Curso net core\ASP\Argumentos opcionales\bin\Debug\net6.0\Argumentos opcionales.pdb
+C:\Curso net core\ASP\Argumentos opcionales\obj\Debug\net6.0\Argumentos opcionales.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\Argumentos opcionales\obj\Debug\net6.0\Argumentos opcionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ASP\Argumentos opcionales\obj\Debug\net6.0\Argumentos opcionales.AssemblyInfoInputs.cache
+C:\Curso net core\ASP\Argumentos opcionales\obj\Debug\net6.0\Argumentos opcionales.AssemblyInfo.cs
+C:\Curso net core\ASP\Argumentos opcionales\obj\Debug\net6.0\Argumentos opcionales.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\Argumentos opcionales\obj\Debug\net6.0\Argumentos opcionales.dll
+C:\Curso net core\ASP\Argumentos opcionales\obj\Debug\net6.0\refint\Argumentos opcionales.dll
+C:\Curso net core\ASP\Argumentos opcionales\obj\Debug\net6.0\Argumentos opcionales.pdb
+C:\Curso net core\ASP\Argumentos opcionales\obj\Debug\net6.0\Argumentos opcionales.genruntimeconfig.cache
+C:\Curso net core\ASP\Argumentos opcionales\obj\Debug\net6.0\ref\Argumentos opcionales.dll

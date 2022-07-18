@@ -1,0 +1,15 @@
+C:\Curso net core\ASP\ClasesAbstractasMetodos\obj\Debug\net6.0\ClasesAbstractasMetodos.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\ClasesAbstractasMetodos\obj\Debug\net6.0\ClasesAbstractasMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ASP\ClasesAbstractasMetodos\obj\Debug\net6.0\ClasesAbstractasMetodos.AssemblyInfoInputs.cache
+C:\Curso net core\ASP\ClasesAbstractasMetodos\obj\Debug\net6.0\ClasesAbstractasMetodos.AssemblyInfo.cs
+C:\Curso net core\ASP\ClasesAbstractasMetodos\obj\Debug\net6.0\ClasesAbstractasMetodos.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\ClasesAbstractasMetodos\bin\Debug\net6.0\ClasesAbstractasMetodos.exe
+C:\Curso net core\ASP\ClasesAbstractasMetodos\bin\Debug\net6.0\ClasesAbstractasMetodos.deps.json
+C:\Curso net core\ASP\ClasesAbstractasMetodos\bin\Debug\net6.0\ClasesAbstractasMetodos.runtimeconfig.json
+C:\Curso net core\ASP\ClasesAbstractasMetodos\bin\Debug\net6.0\ClasesAbstractasMetodos.dll
+C:\Curso net core\ASP\ClasesAbstractasMetodos\bin\Debug\net6.0\ClasesAbstractasMetodos.pdb
+C:\Curso net core\ASP\ClasesAbstractasMetodos\obj\Debug\net6.0\ClasesAbstractasMetodos.dll
+C:\Curso net core\ASP\ClasesAbstractasMetodos\obj\Debug\net6.0\refint\ClasesAbstractasMetodos.dll
+C:\Curso net core\ASP\ClasesAbstractasMetodos\obj\Debug\net6.0\ClasesAbstractasMetodos.pdb
+C:\Curso net core\ASP\ClasesAbstractasMetodos\obj\Debug\net6.0\ClasesAbstractasMetodos.genruntimeconfig.cache
+C:\Curso net core\ASP\ClasesAbstractasMetodos\obj\Debug\net6.0\ref\ClasesAbstractasMetodos.dll

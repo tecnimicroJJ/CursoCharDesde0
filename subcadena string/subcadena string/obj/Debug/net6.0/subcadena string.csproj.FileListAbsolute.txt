@@ -1,0 +1,15 @@
+C:\Curso net core\subcadena string\subcadena string\bin\Debug\net6.0\subcadena string.exe
+C:\Curso net core\subcadena string\subcadena string\bin\Debug\net6.0\subcadena string.deps.json
+C:\Curso net core\subcadena string\subcadena string\bin\Debug\net6.0\subcadena string.runtimeconfig.json
+C:\Curso net core\subcadena string\subcadena string\bin\Debug\net6.0\subcadena string.dll
+C:\Curso net core\subcadena string\subcadena string\bin\Debug\net6.0\subcadena string.pdb
+C:\Curso net core\subcadena string\subcadena string\obj\Debug\net6.0\subcadena string.csproj.AssemblyReference.cache
+C:\Curso net core\subcadena string\subcadena string\obj\Debug\net6.0\subcadena string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\subcadena string\subcadena string\obj\Debug\net6.0\subcadena string.AssemblyInfoInputs.cache
+C:\Curso net core\subcadena string\subcadena string\obj\Debug\net6.0\subcadena string.AssemblyInfo.cs
+C:\Curso net core\subcadena string\subcadena string\obj\Debug\net6.0\subcadena string.csproj.CoreCompileInputs.cache
+C:\Curso net core\subcadena string\subcadena string\obj\Debug\net6.0\subcadena string.dll
+C:\Curso net core\subcadena string\subcadena string\obj\Debug\net6.0\refint\subcadena string.dll
+C:\Curso net core\subcadena string\subcadena string\obj\Debug\net6.0\subcadena string.pdb
+C:\Curso net core\subcadena string\subcadena string\obj\Debug\net6.0\subcadena string.genruntimeconfig.cache
+C:\Curso net core\subcadena string\subcadena string\obj\Debug\net6.0\ref\subcadena string.dll

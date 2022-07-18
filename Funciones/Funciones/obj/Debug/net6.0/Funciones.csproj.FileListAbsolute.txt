@@ -1,0 +1,15 @@
+C:\Curso net core\Funciones\Funciones\bin\Debug\net6.0\Funciones.exe
+C:\Curso net core\Funciones\Funciones\bin\Debug\net6.0\Funciones.deps.json
+C:\Curso net core\Funciones\Funciones\bin\Debug\net6.0\Funciones.runtimeconfig.json
+C:\Curso net core\Funciones\Funciones\bin\Debug\net6.0\Funciones.dll
+C:\Curso net core\Funciones\Funciones\bin\Debug\net6.0\Funciones.pdb
+C:\Curso net core\Funciones\Funciones\obj\Debug\net6.0\Funciones.csproj.AssemblyReference.cache
+C:\Curso net core\Funciones\Funciones\obj\Debug\net6.0\Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\Funciones\Funciones\obj\Debug\net6.0\Funciones.AssemblyInfoInputs.cache
+C:\Curso net core\Funciones\Funciones\obj\Debug\net6.0\Funciones.AssemblyInfo.cs
+C:\Curso net core\Funciones\Funciones\obj\Debug\net6.0\Funciones.csproj.CoreCompileInputs.cache
+C:\Curso net core\Funciones\Funciones\obj\Debug\net6.0\Funciones.dll
+C:\Curso net core\Funciones\Funciones\obj\Debug\net6.0\refint\Funciones.dll
+C:\Curso net core\Funciones\Funciones\obj\Debug\net6.0\Funciones.pdb
+C:\Curso net core\Funciones\Funciones\obj\Debug\net6.0\Funciones.genruntimeconfig.cache
+C:\Curso net core\Funciones\Funciones\obj\Debug\net6.0\ref\Funciones.dll

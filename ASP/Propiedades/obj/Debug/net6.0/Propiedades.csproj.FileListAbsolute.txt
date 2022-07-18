@@ -1,0 +1,15 @@
+C:\Curso net core\ASP\Propiedades\bin\Debug\net6.0\Propiedades.exe
+C:\Curso net core\ASP\Propiedades\bin\Debug\net6.0\Propiedades.deps.json
+C:\Curso net core\ASP\Propiedades\bin\Debug\net6.0\Propiedades.runtimeconfig.json
+C:\Curso net core\ASP\Propiedades\bin\Debug\net6.0\Propiedades.dll
+C:\Curso net core\ASP\Propiedades\bin\Debug\net6.0\Propiedades.pdb
+C:\Curso net core\ASP\Propiedades\obj\Debug\net6.0\Propiedades.csproj.AssemblyReference.cache
+C:\Curso net core\ASP\Propiedades\obj\Debug\net6.0\Propiedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\ASP\Propiedades\obj\Debug\net6.0\Propiedades.AssemblyInfoInputs.cache
+C:\Curso net core\ASP\Propiedades\obj\Debug\net6.0\Propiedades.AssemblyInfo.cs
+C:\Curso net core\ASP\Propiedades\obj\Debug\net6.0\Propiedades.csproj.CoreCompileInputs.cache
+C:\Curso net core\ASP\Propiedades\obj\Debug\net6.0\Propiedades.dll
+C:\Curso net core\ASP\Propiedades\obj\Debug\net6.0\refint\Propiedades.dll
+C:\Curso net core\ASP\Propiedades\obj\Debug\net6.0\Propiedades.pdb
+C:\Curso net core\ASP\Propiedades\obj\Debug\net6.0\Propiedades.genruntimeconfig.cache
+C:\Curso net core\ASP\Propiedades\obj\Debug\net6.0\ref\Propiedades.dll

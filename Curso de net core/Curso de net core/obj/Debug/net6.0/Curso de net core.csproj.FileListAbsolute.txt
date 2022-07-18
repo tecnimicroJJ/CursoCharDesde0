@@ -1,0 +1,15 @@
+C:\Curso net core\Curso de net core\Curso de net core\bin\Debug\net6.0\Curso de net core.exe
+C:\Curso net core\Curso de net core\Curso de net core\bin\Debug\net6.0\Curso de net core.deps.json
+C:\Curso net core\Curso de net core\Curso de net core\bin\Debug\net6.0\Curso de net core.runtimeconfig.json
+C:\Curso net core\Curso de net core\Curso de net core\bin\Debug\net6.0\Curso de net core.dll
+C:\Curso net core\Curso de net core\Curso de net core\bin\Debug\net6.0\Curso de net core.pdb
+C:\Curso net core\Curso de net core\Curso de net core\obj\Debug\net6.0\Curso de net core.csproj.AssemblyReference.cache
+C:\Curso net core\Curso de net core\Curso de net core\obj\Debug\net6.0\Curso de net core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Curso net core\Curso de net core\Curso de net core\obj\Debug\net6.0\Curso de net core.AssemblyInfoInputs.cache
+C:\Curso net core\Curso de net core\Curso de net core\obj\Debug\net6.0\Curso de net core.AssemblyInfo.cs
+C:\Curso net core\Curso de net core\Curso de net core\obj\Debug\net6.0\Curso de net core.csproj.CoreCompileInputs.cache
+C:\Curso net core\Curso de net core\Curso de net core\obj\Debug\net6.0\Curso de net core.dll
+C:\Curso net core\Curso de net core\Curso de net core\obj\Debug\net6.0\refint\Curso de net core.dll
+C:\Curso net core\Curso de net core\Curso de net core\obj\Debug\net6.0\Curso de net core.pdb
+C:\Curso net core\Curso de net core\Curso de net core\obj\Debug\net6.0\Curso de net core.genruntimeconfig.cache
+C:\Curso net core\Curso de net core\Curso de net core\obj\Debug\net6.0\ref\Curso de net core.dll
